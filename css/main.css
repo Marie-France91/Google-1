@@ -8,6 +8,10 @@ header nav ul {
     justify-content: flex-end;
 }
 
+header li {
+    margin-left: 1%;
+}
+
 a:link, a:visited {
     color:#636262;
     text-decoration: none;
@@ -48,4 +52,5 @@ footer {
     border-top: solid 1px #e4e4e4;
     display: flex;
     justify-content: space-between;
+    margin: 1%;
 }
