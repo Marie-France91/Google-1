@@ -31,3 +31,10 @@ a:hover {
     width: 70%;
     height: 30px;
 }
+
+.button {
+    border: none;
+    background-color: #e4e4e4;
+    padding: 1%;
+    color:#636262;
+}
