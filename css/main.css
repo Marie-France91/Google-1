@@ -46,4 +46,6 @@ footer {
     right: 0;
     background-color: #f2f2f2;
     border-top: solid 1px #e4e4e4;
+    display: flex;
+    justify-content: space-between;
 }
