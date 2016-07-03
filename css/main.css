@@ -25,3 +25,9 @@ a:hover {
 .searchBar{
     text-align: center;
 }
+
+#searchBarInput {
+    margin-bottom: 20px;
+    width: 70%;
+    height: 30px;
+}
