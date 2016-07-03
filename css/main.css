@@ -7,3 +7,8 @@ header nav ul {
     display: flex;
     justify-content: flex-end;
 }
+
+a:link, a:visited {
+    color:#636262;
+    text-decoration: none;
+}
