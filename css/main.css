@@ -16,3 +16,8 @@ a:link, a:visited {
 a:hover {
     color:black;
 }
+
+.logo {
+    text-align: center;
+    margin-top: 10%;
+}
