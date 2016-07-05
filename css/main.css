@@ -1,6 +1,33 @@
+/*********** Universal Selector ***************/
+
+
 * {
     font-family: arial, sans-serif;
 }
+
+
+
+
+
+/*********** Links ***************************/
+
+
+a:link, a:visited {
+    color:#636262;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:black;
+}
+
+
+
+
+
+/*********** Header ***************************/
+
 
 header nav ul {
     list-style-type: none;
@@ -8,27 +35,28 @@ header nav ul {
     justify-content: flex-end;
 }
 
+
 header li {
     margin-left: 1%;
 }
 
-a:link, a:visited {
-    color:#636262;
-    text-decoration: none;
-}
 
-a:hover {
-    color:black;
-}
+
+
+
+/*********** Main ****************************/
+
 
 .logo {
     text-align: center;
     margin-top: 10%;
 }
 
+
 .searchBar{
     text-align: center;
 }
+
 
 #searchBarInput {
     margin-bottom: 20px;
@@ -36,12 +64,19 @@ a:hover {
     height: 30px;
 }
 
+
 .button {
     border: none;
     background-color: #e4e4e4;
     padding: 1%;
     color:#636262;
 }
+
+
+
+
+/*********** Footer **************************/
+
 
 footer {
     position: absolute;
